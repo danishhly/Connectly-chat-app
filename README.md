@@ -45,3 +45,20 @@ Clone the repository:
 ```bash
 git clone https://github.com/danishhly/connectly.git
 cd connectly
+```
+
+Install Frontend dependencies
+
+```bash
+cd frontend
+npm install
+npm start
+```
+
+Install Backend dependencies
+
+```bash
+cd backend
+npm install
+npm start
+
