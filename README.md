@@ -1,5 +1,5 @@
 
-# 💬 Connectly
+# 💬 ClanSpace
 
 Connectly is a real-time chat application that allows users to communicate instantly and interactively with real-time theme switching. Built with a modern tech stack, it’s designed to deliver a seamless messaging experience.
 
